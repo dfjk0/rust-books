@@ -15,3 +15,7 @@
 ## Other
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+
+## WebAssembly
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
+- [The `wasm-bindgen` Guide](https://rustwasm.github.io/wasm-bindgen/introduction.html)
