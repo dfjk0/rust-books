@@ -14,3 +14,4 @@
 
 ## Other
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
