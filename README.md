@@ -9,12 +9,10 @@
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
-## Performance
-- [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
-
 ## Technical
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 
 ## WebAssembly
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
