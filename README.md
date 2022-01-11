@@ -2,8 +2,8 @@
 
 ## Standard tools
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
-- [What is rustdoc?](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
-- [What is rustc?](https://doc.rust-lang.org/rustc/what-is-rustc.html)
+- [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
+- [The rustc book](https://doc.rust-lang.org/rustc/what-is-rustc.html)
 
 ## Fundamental
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
