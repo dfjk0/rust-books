@@ -8,3 +8,4 @@
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 
 ## Other
+- [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
