@@ -18,3 +18,6 @@
 ## WebAssembly
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
 - [The `wasm-bindgen` Guide](https://rustwasm.github.io/wasm-bindgen/introduction.html)
+
+## Other
+- [The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html)
