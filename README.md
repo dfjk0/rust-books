@@ -6,7 +6,7 @@
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
 
 ## Fundamental
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)(https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html#the-rust-programming-language)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
