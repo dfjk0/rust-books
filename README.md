@@ -15,6 +15,7 @@
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
+- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html)
 
 ## WebAssembly
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
