@@ -1,4 +1,4 @@
-# Extremely helpful Rust Books
+# Helpful Rust Books
 
 ## Standard tools
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
