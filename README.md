@@ -11,6 +11,9 @@
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
+## Test
+- [Rust Fuzz Book](https://rust-fuzz.github.io/book/introduction.html)
+
 ## Technical
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
